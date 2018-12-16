@@ -1,0 +1,19 @@
+{
+  "name": "simulazionese2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksart/simulazioneSE2.git"
+  },
+  "author": "Nicola Sartorato 186560",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niksart/simulazioneSE2/issues"
+  },
+  "homepage": "https://github.com/niksart/simulazioneSE2#readme"
+}
