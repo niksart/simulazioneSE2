@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/niksart/simulazioneSE2/issues"
   },
-  "homepage": "https://github.com/niksart/simulazioneSE2#readme"
+  "homepage": "https://github.com/niksart/simulazioneSE2#readme",
+  "dependencies": {
+    "jest": "^23.6.0",
+    "node-fetch": "^2.3.0"
+  }
 }
