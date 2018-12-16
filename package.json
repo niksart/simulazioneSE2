@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "jest"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/niksart/simulazioneSE2#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "jest": "^23.6.0",
     "node-fetch": "^2.3.0"
   }
