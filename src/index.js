@@ -12,4 +12,4 @@ app.get('/square', (req, res) => {
     res.json({result: string_square(req.query.string)});
 });
 
-app.listen(PORT, () => console.log('App listening on port ' + PORT));
+module.exports = app;
